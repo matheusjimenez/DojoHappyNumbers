@@ -1,0 +1,12 @@
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.exe
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.deps.json
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.dll
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.pdb
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.dll
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.pdb
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.genruntimeconfig.cache
