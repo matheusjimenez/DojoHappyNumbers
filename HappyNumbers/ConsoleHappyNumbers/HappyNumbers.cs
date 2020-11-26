@@ -9,8 +9,14 @@ namespace ConsoleHappyNumbers
         public string GetFirstNumber(string input)
         {
             var inputNumbers = input.ToCharArray();
-            var firstNumber = inputNumbers[0];
-            return firstNumber.ToString();
+
+            return inputNumbers[0].ToString();
+        }
+
+        public string[] GetNumbers(string input)
+        {
+            var inputNumbers = input.ToCharArray();
+            return inputNumbers.ToString();
         }
     }
 }

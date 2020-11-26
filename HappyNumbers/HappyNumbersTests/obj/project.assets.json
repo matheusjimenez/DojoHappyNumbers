@@ -3489,19 +3489,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\T-Gamer\\.nuget\\packages\\": {}
+    "C:\\Users\\Burned\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\DojoHappyNumbers\\HappyNumbers\\HappyNumbersTests\\HappyNumbersTests.csproj",
+      "projectUniqueName": "D:\\dev\\DOJODOJOJO\\DojoHappyNumbers\\HappyNumbers\\HappyNumbersTests\\HappyNumbersTests.csproj",
       "projectName": "HappyNumbersTests",
-      "projectPath": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\DojoHappyNumbers\\HappyNumbers\\HappyNumbersTests\\HappyNumbersTests.csproj",
-      "packagesPath": "C:\\Users\\T-Gamer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\DojoHappyNumbers\\HappyNumbers\\HappyNumbersTests\\obj\\",
+      "projectPath": "D:\\dev\\DOJODOJOJO\\DojoHappyNumbers\\HappyNumbers\\HappyNumbersTests\\HappyNumbersTests.csproj",
+      "packagesPath": "C:\\Users\\Burned\\.nuget\\packages\\",
+      "outputPath": "D:\\dev\\DOJODOJOJO\\DojoHappyNumbers\\HappyNumbers\\HappyNumbersTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\T-Gamer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Burned\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3514,8 +3514,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\T-Gamer\\Desktop\\Dojo\\DojoHappyNumbers\\HappyNumbers\\ConsoleHappyNumbers\\ConsoleHappyNumbers.csproj": {
-              "projectPath": "C:\\Users\\T-Gamer\\Desktop\\Dojo\\DojoHappyNumbers\\HappyNumbers\\ConsoleHappyNumbers\\ConsoleHappyNumbers.csproj"
+            "D:\\dev\\DOJODOJOJO\\DojoHappyNumbers\\HappyNumbers\\ConsoleHappyNumbers\\ConsoleHappyNumbers.csproj": {
+              "projectPath": "D:\\dev\\DOJODOJOJO\\DojoHappyNumbers\\HappyNumbers\\ConsoleHappyNumbers\\ConsoleHappyNumbers.csproj"
             }
           }
         }
@@ -3561,7 +3561,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

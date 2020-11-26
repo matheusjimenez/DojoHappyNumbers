@@ -10,3 +10,16 @@ C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\
 C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.dll
 C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.pdb
 C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.genruntimeconfig.cache
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.exe
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.deps.json
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.runtimeconfig.json
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.runtimeconfig.dev.json
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.dll
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\bin\Debug\netcoreapp3.1\ConsoleHappyNumbers.pdb
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.csprojAssemblyReference.cache
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.AssemblyInfoInputs.cache
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.AssemblyInfo.cs
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.csproj.CoreCompileInputs.cache
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.dll
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.pdb
+D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.genruntimeconfig.cache
