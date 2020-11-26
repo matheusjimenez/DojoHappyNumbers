@@ -13,10 +13,10 @@ namespace ConsoleHappyNumbers
             return inputNumbers[0].ToString();
         }
 
-        public string[] GetNumbers(string input)
+        public char[] GetNumbers(string input)
         {
             var inputNumbers = input.ToCharArray();
-            return inputNumbers.ToString();
+            return inputNumbers;
         }
     }
 }

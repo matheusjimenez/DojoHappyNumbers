@@ -23,3 +23,4 @@ D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\ne
 D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.dll
 D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.pdb
 D:\dev\DOJODOJOJO\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.genruntimeconfig.cache
+C:\Users\T-Gamer\Desktop\Dojo\DojoHappyNumbers\HappyNumbers\ConsoleHappyNumbers\obj\Debug\netcoreapp3.1\ConsoleHappyNumbers.csprojAssemblyReference.cache

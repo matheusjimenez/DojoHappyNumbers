@@ -16,9 +16,16 @@ namespace HappyNumbersTests
         [Fact]
         public void ShouldReturnTheInputNumbersSeparatelly()
         {
-            string[] numbers = { "2", "5" };
-            string[] result = happyNumbers.GetNumbers("25");
+            char[] numbers = { '2', '5' };
+            char[] result = happyNumbers.GetNumbers("25");
             Assert.Equal(numbers, result);
+        }
+        [Fact]
+        public void ShouldPowerTheInputedNumbers()
+        {
+            string numbers = "35";
+            var separetelyNumbers = happyNumbers.GetNumbers(numbers);
+            var poweredNumbers = int.Parse(separetelyNumbers[0].ToString());
         }
     }
 }
